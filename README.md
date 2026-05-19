@@ -1,2 +1,2 @@
-# Mern-Stack-Internship
+# adhoc-network
 new batch 
